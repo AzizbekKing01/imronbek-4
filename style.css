@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+
+}
+.text1{
+    text-align: center;
+    color: yellow;
+
+}
+.paragraf{
+    color: white;
+    text-align: center;
+
+}
+.spangreen{
+    color: green;
+}
+
+.title{
+    text-align: center;
+    color: white;
+}
+.text2{
+    text-align: center;
+    color: white;
+    border: 2px solid yellow;
+
+}
+
+.btn{
+    background-color: green;
+    width:  250px;
+    color: white;
+    text-align: center;
+}
